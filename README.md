@@ -3,4 +3,4 @@ The Following Github Repository contains two assignments for the pre-interview t
 
 Exercise - 1: Referring to the provided data and generating 3 different graphs from the provided data using Plotly. 
 
-Exercise - 2: Summarizing or Writing a review regarding any Fictional or Non-Fictional Book or Novel read.
+Exercise - 4: Summarizing or Writing a review regarding any Fictional or Non-Fictional Book or Novel read.
